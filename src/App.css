@@ -1,0 +1,7 @@
+*{
+    background: #000;
+    color: #fff;
+}
+.blob{
+    background-image: url('/blob.svg');
+}
