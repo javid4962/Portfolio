@@ -7,7 +7,7 @@ export default function About() {
     return (
         <>
             {/* <Header /> */}
-            <div className="container m-auto my-5 h-100" style={style} id="about">
+            <div className="container m-auto my-5 h-100 bgt" style={style} id="about">
                 <div className="">
                     <h3> #About me</h3>
                     <p className="text-secondary">My Introduction</p>

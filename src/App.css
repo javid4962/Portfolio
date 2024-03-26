@@ -5,3 +5,6 @@
 .blob{
     background-image: url('/blob.svg');
 }
+.bgt{
+    background: transparent;
+}

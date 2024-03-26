@@ -7,14 +7,14 @@ import { Link } from "react-router-dom";
 
 export default function Header() {
     return (
-        <header className='bg-black '>
-            <nav className=" navbar navbar-expand-lg navbar-dark py-2 m-0">
+        <header className=' bgt' >
+            <nav className=" navbar navbar-expand-lg navbar-dark py-2 m-0 ">
                 <a href="/" className=" text-decoration-none ">
                     <h6 className='text-white mx-5'>Masthan Javid Vali Shaik</h6>
                
                 </a>
                 <button
-                    className="navbar-toggler border-none outline-none m-2"
+                    className="navbar-toggler border-none outline-none m-2 bgt"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#navbarNav"

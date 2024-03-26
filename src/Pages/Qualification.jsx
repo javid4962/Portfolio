@@ -13,10 +13,10 @@ export default function Qualification() {
       {/* <Header/> */}
       <div className="container m-auto my-5 h-100" id="qualification">
         <h3>#Qualifications</h3>
-          <div className="row row-cols-1 row-cols-md-2 d-flex justify-content-center align-items-center m-0 p-0">
+          <div className="row row-cols-1 row-cols-md-1 d-flex justify-content-center m-0 p-0">
 
             <div className="col row row-cols-1">
-            <button className="btn text-primary outline-light m-2" >Education</button>
+            <button className="btn text-primary outline-light" >Education</button>
               <div className="col m-2 bg-dark p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, placeat unde quaerat ab atque rerum aut aspernatur officiis beatae sed. Perspiciatis nobis saepe aspernatur placeat modi, atque iste consequuntur sint?</div>
               <div className="col m-2 bg-dark p-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, placeat unde quaerat ab atque rerum aut aspernatur officiis beatae sed. Perspiciatis nobis saepe aspernatur placeat modi, atque iste consequuntur sint?</div>
 
